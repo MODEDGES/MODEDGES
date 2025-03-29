@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on
 - The Pixel Project
-- Pixelstar
-- Project Zenith
-- The Pixel Project Collab Edition
+- AtlantisOS
 - 🌱 I’m pasionate about [making android apps and custom roms]
 - 📝 I’m aiming to work on **one update per week** starting from February 2024.
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
